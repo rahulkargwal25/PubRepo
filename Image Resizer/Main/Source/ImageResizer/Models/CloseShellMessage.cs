@@ -7,6 +7,8 @@
 // </copyright>
 //------------------------------------------------------------------------------
 
+// Addition of comment to test GitHub
+
 namespace BriceLambson.ImageResizer.Models
 {
     using GalaSoft.MvvmLight.Messaging;
