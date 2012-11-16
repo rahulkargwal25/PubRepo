@@ -10,6 +10,7 @@
 // Addition of comment to test GitHub
 
 // Adding comment and replacing the file
+//Modifying in browser
 
 namespace BriceLambson.ImageResizer.Models
 {
